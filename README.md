@@ -21,7 +21,7 @@
 
 ``` bash
 # Download repository:
-git clone https://github.com/antonsaf18/dendy_game_on_html_and_css.git dendy_game_on_html_and_css
+git clone https://github.com/antonsaf18/dendy_game_on_html_and_css.git
 
 # Go to the app:
 cd dendy_game_on_html_and_css
