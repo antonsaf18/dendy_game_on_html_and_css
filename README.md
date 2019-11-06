@@ -4,7 +4,7 @@
   <p>
     Webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
   </p>
-  <p>Base Template: <a href="https://github.com/dendy_game_on_html_and_css">webpack-template</a></p>
+  <p>Base Template: <a href="https://github.com/antonsaf18/dendy_game_on_html_and_css">webpack-template</a></p>
 </div>
 
 #  Project dendy_game_on_html_and_css.
@@ -21,7 +21,7 @@
 
 ``` bash
 # Download repository:
-git clone https://github.com/dendy_game_on_html_and_css dendy_game_on_html_and_css
+git clone https://github.com/antonsaf18/dendy_game_on_html_and_css.git dendy_game_on_html_and_css
 
 # Go to the app:
 cd dendy_game_on_html_and_css
