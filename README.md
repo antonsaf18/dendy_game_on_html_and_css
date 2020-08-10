@@ -8,6 +8,10 @@
 -  HTML;
 -  CSS.
 
+Install Node.js (node -v [v10.17.0])
+
+<img style="width: 1150px" src="demo.gif" alt="">
+
 ## Build Setup:
 
 ``` bash
